@@ -11,3 +11,6 @@
 
 ## Projeto 4 - Contador Regressivo React
 => Um contador regressivo desenvolvido com React.js, onde explorei ferramentas como Context API e React Router para facilitar o compartilhamento de dados entre componentes e a navegação entre páginas. Os usuários têm a liberdade de personalizar o título, a data, o fundo da tela e a cor do tema. Após submeter as preferências, o sistema redireciona para uma nova página, exibindo o tempo restante até a data escolhida.
+
+## Projeto 5 - Palavra secreta React
+=> Projeto em React.js: o jogo 'Palavra Secreta'. Os usuários devem adivinhar uma palavra com base em dicas, inserindo letras individualmente. Cuidado, há um limite de três erros! Acumule pontos ao adivinhar corretamente as palavras. Se atingir o limite de erros, é game over, mas os jogadores podem verificar seu desempenho final. Uma experiência empolgante de desenvolvimento e diversão garantida!"
